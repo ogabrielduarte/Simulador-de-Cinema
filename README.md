@@ -3,6 +3,7 @@
 Este é um projeto pessoal que tem por objetivo simular o sistema de caixa e de cartaz de um cinema.
 
 O programa conta com dois perfis, responsáveis pela manipulação dos diferentes aspectos do sistema:
+
 **ADMIN**
 _Administração do cinema_
 - CADASTRA NOVOS FILMES NO CARTAZ
