@@ -18,8 +18,11 @@ _Interação primária com o cliente_
 - PROCESSA A VENDA CONJUNTA DE INGRESSOS E PRODUTOS DA BOMBONIERE
 - FINALIZA PEDIDOS COM SIMULAÇÃO DE EMISSÃO DE INGRESSOS E NOTA FISCAL (PDF)
 
-Utilizar-se-á apenas **HTML**, **CSS** e **JavaScript** para o desenvolvimento da aplicação,
-não contando com grandes frameworks back-end ou front-end.
+Utilizar-se-á: 
+- **HTML**,
+- **CSS**,
+- e **JavaScript**
+para o desenvolvimento da aplicação, com a utilização de NestJS no backend.
 
 É um projeto com fins de estudo que expõe minhas habilidades com as ferramentas de desenvolvimento supracitadas.
 
