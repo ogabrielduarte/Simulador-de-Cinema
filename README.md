@@ -21,8 +21,8 @@ _Interação primária com o cliente_
 Utilizar-se-á: 
 - **HTML**,
 - **CSS**,
-- e **JavaScript**
-para o desenvolvimento da aplicação, com a utilização de NestJS no backend.
+- e **TypeScript**
+para o desenvolvimento da aplicação, com a utilização de NestJS no backend e Prisma.
 
 É um projeto com fins de estudo que expõe minhas habilidades com as ferramentas de desenvolvimento supracitadas.
 
