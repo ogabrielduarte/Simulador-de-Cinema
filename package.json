@@ -1,0 +1,19 @@
+{
+  "name": "simulador-de-cinema",
+  "version": "1.0.0",
+  "description": "A Web simulator of an Cinema POS System",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cinema",
+    "web",
+    "simulator"
+  ],
+  "author": "Gabriel S. Duarte",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^6.0.3"
+  }
+}
